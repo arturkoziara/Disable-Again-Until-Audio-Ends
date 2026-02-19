@@ -18,22 +18,8 @@ An Anki 2.1 add-on that disables the **Again** (and optionally other answer keys
 
 ## Installation
 
-### From AnkiWeb (recommended)
-
-1. In Anki: **Tools** → **Add-ons** → **Get Add-ons** → paste the add-on code.
-2. Restart Anki.
-
-### From GitHub / manual
-
-1. [Download](https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip) or clone this repo.
-2. In Anki: **Tools** → **Add-ons** → **View Files** (opens your `addons21` folder).
-3. Copy the add-on folder (the one containing `__init__.py`, `manifest.json`, `config.json`, and this README) into `addons21`.
-4. Restart Anki.
-
-### From an .ankiaddon file
-
-1. Download the `.ankiaddon` file from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) (or build it: zip the *contents* of the add-on folder and rename to `*.ankiaddon`).
-2. In Anki: **Tools** → **Add-ons** → **Install from file** → select the file.
+1. In Anki: **Tools** → **Add-ons** → **Get Add-ons**.
+2. Paste this code and click **OK**: **`1753038642`**
 3. Restart Anki.
 
 ---
